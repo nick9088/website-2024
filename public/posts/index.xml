@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on nick909</title>
+        <link>//localhost:1313/posts/</link>
+        <description>Recent content in Posts on nick909</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 26 Apr 2024 12:41:07 +0200</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>$ hugo new site nick909.dev</title>
+            <link>//localhost:1313/posts/2024/04/hugo-new-site-nick909.dev/</link>
+            <pubDate>Fri, 26 Apr 2024 12:41:07 +0200</pubDate>
+            
+            <guid>//localhost:1313/posts/2024/04/hugo-new-site-nick909.dev/</guid>
+            <description>Aaaaand we are back to gohugo!
+after dealing with html and css, astro, wordpress and lots of other things i&amp;rsquo;ve decided to go back to gohugo because i think it&amp;rsquo;s more of a simpler system than having to code your own website.
+it&amp;rsquo;s enough for now, something much bigger will come ASAP and when i will have the time
+-nick909</description>
+            <content type="html"><![CDATA[<p>Aaaaand we are back to gohugo!</p>
+<p>after dealing with html and css, astro, wordpress and lots of other things i&rsquo;ve decided to go back to gohugo because i think it&rsquo;s more of a simpler system than having to code your own website.</p>
+<p>it&rsquo;s enough for now, something much bigger will come ASAP and when i will have the time</p>
+<p>-nick909</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
