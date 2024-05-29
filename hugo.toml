@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Developer, Content Creator in Italy 🇮🇹"
 
   # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+  backgroundImage = "assets/bg.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -94,7 +94,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
