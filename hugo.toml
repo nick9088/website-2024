@@ -104,7 +104,7 @@ disableHugoGeneratorInject = false
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
-  justifyContent = false  # Set "text-align: justify" to .post-content.
+  justifyContent = true  # Set "text-align: justify" to .post-content.
 
   # Integrate Plausible.io
   # plausibleDataDomain = 'test.com'
@@ -114,7 +114,7 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = 2023
+    trademark = 2024
     rss = true
     copyright = true
     author = true
@@ -139,7 +139,7 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#bf9270"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
     # Append the current url pathname to logoText 
@@ -224,6 +224,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "github"
     url  = "https://github.com/nick9088"
+
+  [[params.social]]
+    name = "soundcloud"
+    url  = "https://soundcloud.com/prodbynick909"
 
 [languages]
   [languages.en]
